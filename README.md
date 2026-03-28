@@ -8,7 +8,7 @@ Welcome to **Krimatix** — where ideas aren’t just imagined, they’re engine
 
 ## 🌐 About Us
 
-Krimatix is a technology-driven company focused on delivering cutting-edge digital solutions. From startups finding their footing to enterprises scaling new heights, we help businesses transform ideas into impactful products.
+Krimatix is a technology-driven company focused on delivering cutting-edge digital solutions. From startups finding their footing to enterprises scaling new heights, we help businesses transform ideas into impactful products. Test
 
 ---
 
